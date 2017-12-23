@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "flow-bin": "^0.61.0",
+    "flow-language-server": "^0.2.3"
+  }
+}
